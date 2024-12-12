@@ -1,1 +1,3 @@
-# odin-recipes
+Welcome to Ayush Kumar's Recipe Website!
+
+Welcome to my collection of amazing recipes! I'm Ayush Kumar, and this website is dedicated to sharing delicious, easy-to-follow recipes from all around the world. Whether you're a seasoned chef or a home cook, you'll find a variety of recipes to inspire your next meal. I hope this platform helps you explore new flavors, try something different, and bring joy to your kitchen. Happy cooking!
